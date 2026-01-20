@@ -1,1 +1,1 @@
-# simplywell-support
+# SimplyWell Support
